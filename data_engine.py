@@ -102,7 +102,8 @@ Raw result: {str(result)[:500]}
 
 Write 2-3 sentences explaining this finding in natural language.
 Include actual numbers and percentages from the result.
-Do NOT mention code, pandas, or DataFrames — speak as if you analyzed it yourself.
+Do NOT mention code\
+    , pandas, or DataFrames — speak as if you analyzed it yourself.
 """
     )
 

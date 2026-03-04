@@ -1,6 +1,6 @@
 # config.py — single source of truth for all settings
 
-LM_STUDIO_URL   = "http://10.149.95.50:1234/v1"
+LM_STUDIO_URL   = "http://192.168.0.107:1234/v1"
 REASONING_MODEL = "qwen2.5-coder-7b-instruct"
 EMBEDDING_MODEL = "text-embedding-all-minilm-l6-v2-embedding"
 CHROMA_DIR      = "./chroma_store"
